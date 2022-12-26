@@ -1,0 +1,279 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sebastian",
+      "surnames": "Ardila Agudelo",
+      "title": "Frontend Developer",
+      "description": "I'm an experienced Frontend Developer that is continuously learning, but working out is a fundamental part of my routine, mind and body it’s necessary to keep health. I strongly believe to keep healthy environment with coworkers, give and receive constant feedback and teamwork make the difference.\n\nI've experience creating graphic and dynamic components for users using HTML, SVG, Canvas, JavaScript, Typescript and React as a Frontend Developer. I've worked also with scrum and agile methodologies and I used to work with backend in Node. I would like to be a technical leader who can contribute and develop ideas with greater management capacity.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "country": "Colombia",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/dila93"
+      },
+      {
+        "type": "other",
+        "URL": "https://sebastianardila.com/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sebastian-ardila/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I love calisthenics and writing",
+        "fact": "I love to exercise using my own corporal weight to create propioseption, that's like meditating for me and that help me to keep good mental health and i also like to write scince fiction and poetry, I relate that creative process with the fact of programming "
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Jan 2020 - Present "
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Technological development of the Low Code visual platform in which applications are created for financial entities, mainly digital banking. For this we used vanilla javascript at first and svg.js, the we migrate the code to React with Typescript keeping the TDD practice for components.\n\nMigrate the visual canvas to a microfrontend connected with an iframe. Improve the development process through mocking the routes using agile technical oriented processes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mar 2019 - Jan 2020"
+        },
+        "roles": [
+          {
+            "name": "Implementation Consultant",
+            "startDate": "2019-03-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Client Delivery Consultant and implementer of a webstie for Banco Estado - Chile, using the VeriTran Low Code Platform and best frontend development practices taking care of the performance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ExcelAscent "
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2018-08-01",
+            "finishDate": "2019-08-31",
+            "challenges": [
+              {
+                "description": "Crypocurrency payment integration and backoffice development for crypto investment packages working in frontend, backend and the entire architecture under CEO supervision using a MERN Stack of technologies.\nMongo, Express js, React js and Node js"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TD7 "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web Backend",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "Develop a graphic interface to display cryptocurrency prices in real time using socket.io and vanilla javascript. Develop a tested API to deliver crypto-wallet information using Express.js and Mocha.js and MongoDB."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Onyx Soft SAS "
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2017-10-01",
+            "finishDate": "2018-01-31",
+            "challenges": [
+              {
+                "description": "Development of web, mobile and desktop applications using Webdev and Windev that is a cross-platform application development software based on Java.\nDevelop new features using a super framework of Java called webdev for chain restaurants.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sebastian-ardila/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Backbone",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
