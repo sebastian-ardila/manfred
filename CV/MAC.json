@@ -61,7 +61,19 @@
                 "type": "technology"
               },
               {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
                 "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
                 "type": "technology"
               },
               {
