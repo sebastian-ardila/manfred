@@ -199,6 +199,10 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "MongoDB",
                 "type": "technology"
               },
