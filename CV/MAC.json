@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,8 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/c0d01d8b-b164-4234-8386-7090091a619e_88421314-2633-457c-a.jpeg"
       },
       "location": {
-        "country": "Colombia",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Colombia"
       }
     },
     "relevantLinks": [
@@ -66,7 +65,7 @@
           {
             "name": "Implementation Consultant",
             "startDate": "2019-03-01",
-            "finishDate": "2020-12-01",
+            "finishDate": "2019-12-01",
             "challenges": [
               {
                 "description": "Client Delivery Consultant and implementer of a webstie for Banco Estado - Chile, using the VeriTran Low Code Platform and best frontend development practices taking care of the performance."
@@ -131,16 +130,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Portuguese",
-        "level": "Limited working proficiency"
+        "name": "Portuguese"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -273,7 +269,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
