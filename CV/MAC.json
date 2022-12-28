@@ -48,7 +48,7 @@
         "roles": [
           {
             "name": "Software Engineer",
-            "startDate": "2020-12-01",
+            "startDate": "2020-01-01",
             "challenges": [
               {
                 "description": "Technological development of the Low Code visual platform in which applications are created for financial entities, mainly digital banking. For this we used vanilla javascript at first and svg.js, the we migrate the code to React with Typescript keeping the TDD practice for components.\n\nMigrate the visual canvas to a microfrontend connected with an iframe. Improve the development process through mocking the routes using agile technical oriented processes."
