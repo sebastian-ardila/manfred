@@ -172,7 +172,8 @@
       },
       {
         "organization": {
-          "name": "Onyx Soft SAS "
+          "name": "Onyx Soft SAS ",
+          "URL": "https://www.onyxsoft.co/"
         },
         "roles": [
           {
@@ -182,6 +183,12 @@
             "challenges": [
               {
                 "description": "Development of web, mobile and desktop applications using Webdev and Windev that is a cross-platform application development software based on Java.\nDevelop new features using a super framework of Java called webdev for chain restaurants.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
               }
             ]
           }
