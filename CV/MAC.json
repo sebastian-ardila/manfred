@@ -166,6 +166,24 @@
               {
                 "description": "Develop a graphic interface to display cryptocurrency prices in real time using socket.io and vanilla javascript. Develop a tested API to deliver crypto-wallet information using Express.js and Mocha.js and MongoDB."
               }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
             ]
           }
         ]
