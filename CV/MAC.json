@@ -86,7 +86,8 @@
       },
       {
         "organization": {
-          "name": "VeriTran"
+          "name": "VeriTran",
+          "URL": "https://www.veritran.com/"
         },
         "roles": [
           {
@@ -96,6 +97,28 @@
             "challenges": [
               {
                 "description": "Client Delivery Consultant and implementer of a webstie for Banco Estado - Chile, using the VeriTran Low Code Platform and best frontend development practices taking care of the performance."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
               }
             ]
           }
