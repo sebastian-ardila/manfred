@@ -149,6 +149,32 @@
               {
                 "description": "Crypocurrency payment integration and backoffice development for crypto investment packages working in frontend, backend and the entire architecture under CEO supervision using a MERN Stack of technologies.\nMongo, Express js, React js and Node js"
               }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
             ]
           }
         ]
