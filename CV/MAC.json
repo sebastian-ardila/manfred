@@ -354,6 +354,12 @@
           "name": "Selenium",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
       }
     ],
     "softSkills": [
@@ -431,6 +437,24 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I love that my work has a visual and interactive impact in a positive way and I also like the creative process to carry out the ideas that generate that impact.\nI would like to work on projects that promote accessibility and think about the end user and with a team of creative people.\nI love good programming practices and new technologies but I wouldn't like to work with legacy code.",
     "goodPractices": "I constantly try to keep in mind the solid principles thinking of others and also in the code architecture and i like to learn about Clean Code and discuss about it with my coworkers to improve the team sinergy because i think it's important to have  effective communication using technical and verbal skills.\nI love to create my own small personal projects in wich i can do anything i imagine and learn from it. \nIn the other hand I really enjoy the definition process of new features and projects where i can use my creativity combining the business definition with the technical requirements. I think that when you understand the business and the project arquitechture that's the most exciting part!"
   }
