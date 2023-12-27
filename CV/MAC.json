@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -365,19 +365,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Ability to give feedback",
+          "name": "Adaptabilidad al cambio",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Adaptability to change",
+          "name": "Capacidad de dar feedback",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Creative thinking",
+          "name": "Pensamiento creativo",
           "type": "practice"
         }
       }
