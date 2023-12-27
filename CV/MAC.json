@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,32 +11,33 @@
       "title": "Frontend Developer",
       "description": "I'm an experienced Frontend Developer that is continuously learning, but working out is a fundamental part of my routine, mind and body it’s necessary to keep health. I strongly believe to keep healthy environment with coworkers, give and receive constant feedback and teamwork make the difference.\n\nI've experience creating graphic and dynamic components for users using HTML, SVG, Canvas, JavaScript, Typescript and React as a Frontend Developer. I've worked also with scrum and agile methodologies and I used to work with backend in Node. I would like to be a technical leader who can contribute and develop ideas with greater management capacity.",
       "avatar": {
-        "alt": "yo3.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/de6f62a8-ba7f-4430-8c55-6fbb9cc49a72_yo3.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/28/de6f62a8-ba7f-4430-8c55-6fbb9cc49a72_yo3.png",
+        "alt": "yo3.png"
       },
       "location": {
-        "country": "Colombia",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJo5QVrjqkFY4RQKPy7wSaDZo)",
+        "country": "Colombia"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "I love calisthenics and writing",
+        "fact": "I love to exercise using my own corporal weight to create propioseption, that's like meditating for me and that help me to keep good mental health and i also like to write scince fiction and poetry, I relate that creative process with the fact of programming "
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sebastian-ardila/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/dila93"
       },
       {
         "type": "other",
-        "URL": "https://sebastianardila.com/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sebastian-ardila/"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "I love calisthenics and writing",
-        "fact": "I love to exercise using my own corporal weight to create propioseption, that's like meditating for me and that help me to keep good mental health and i also like to write scince fiction and poetry, I relate that creative process with the fact of programming "
+        "URL": "https://sebastianardila.com/",
+        "description": "sebastianardila.com"
       }
     ]
   },
@@ -248,19 +249,28 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Portuguese",
-        "level": "Limited working proficiency"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "CSS",
@@ -275,67 +285,19 @@
       },
       {
         "skill": {
-          "name": "Selenium",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nginx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -350,6 +312,68 @@
           "name": "Jest",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to give feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -357,8 +381,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sebastian-ardila/"
+          "URL": "https://www.linkedin.com/in/sebastian-ardila/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/dila93",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "sebas.dila@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3177822100",
+          "countryCode": "+57"
         }
       ]
     },
@@ -392,5 +429,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I love that my work has a visual and interactive impact in a positive way and I also like the creative process to carry out the ideas that generate that impact.\nI would like to work on projects that promote accessibility and think about the end user and with a team of creative people.\nI love good programming practices and new technologies but I wouldn't like to work with legacy code.",
+    "goodPractices": "I constantly try to keep in mind the solid principles thinking of others and also in the code architecture and i like to learn about Clean Code and discuss about it with my coworkers to improve the team sinergy because i think it's important to have  effective communication using technical and verbal skills.\nI love to create my own small personal projects in wich i can do anything i imagine and learn from it. \nIn the other hand I really enjoy the definition process of new features and projects where i can use my creativity combining the business definition with the technical requirements. I think that when you understand the business and the project arquitechture that's the most exciting part!"
   }
 }
